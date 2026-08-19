@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npx tsc --noEmit)",
+      "PowerShell(npx playwright test -g \"Browser Controls\" --project=edge --headed)",
+      "PowerShell(npx playwright test hover --headed --project=edge)"
+    ]
+  }
+}

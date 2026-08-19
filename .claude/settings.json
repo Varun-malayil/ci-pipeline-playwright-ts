@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npx playwright test staticDropdown --headed --project=edge)",
+      "PowerShell(npx playwright test hooks --headed --project=edge)",
+      "Bash(npx playwright *)"
+    ]
+  }
+}

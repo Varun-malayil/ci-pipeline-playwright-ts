@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10311","Capture screenshot","edge","2026-08-19","failed","2026-08-19","","learn\screenshots\screenshot.spec.ts","",""
